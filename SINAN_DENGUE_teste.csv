@@ -1,0 +1,13 @@
+﻿AnoNotificacao,DiaSemanaNotificacao,Contagem de NumeroCasos,NomePaciente,PCRResultado,ExameSorologicoIgMResultado,ImunohistoquimicaResultado,SexoPaciente,RacaPaciente,IdadePaciente,FaixaEtaria,Escolaridade,MunicipioResidencia,Ocupacao,ZonaResidencia,UfResidencia,UfNotificacao
+2019,01,1,AURELIA MARIA PEREIRA DE SOUZA,Positivo,Não Realizado,Não Realizado,F,Parda,027a,06.25 a 29 anos,Ensino médio completo,BOM JESUS DO ARAGUAIA,*Em Branco,Urbana,MT,MT
+2019,01,1,PATRICIA MEDEIROS DOS SANTOS,Positivo,Não Realizado,Não Realizado,F,Parda,030a,07.30 a 34 anos,Ensino médio incompleto,BOM JESUS DO ARAGUAIA,*Em Branco,Urbana,MT,MT
+2019,02,1,CLEIDIMEIRE PEREIRA NUNES LIMA,Positivo,Não Realizado,Não Realizado,F,Parda,040a,09.40 a 44 anos,5ª a 8ª série incompleta do EF,BOM JESUS DO ARAGUAIA,*Em Branco,Urbana,MT,MT
+2019,02,1,MARIA MADALENA REGES BRITO,Positivo,Não Realizado,Não Realizado,F,Parda,064a,13.60 a 64 anos,4ª série completa do EF,BOM JESUS DO ARAGUAIA,*Em Branco,*Em Branco,MT,MT
+2019,02,1,GEISON DE SOUZA SILVA,Positivo,Reagente,Não Realizado,M,Parda,021a,05.20 a 24 anos,*Em Branco,SAO FELIX DO ARAGUAIA,*Em Branco,Rural,MT,MT
+2019,02,1,JAIRO RIBEIRO BRITO,Positivo,Reagente,Não Realizado,M,Parda,042a,09.40 a 44 anos,Ensino médio completo,CONFRESA,*Em Branco,Urbana,MT,MT
+2019,03,1,CINTHIA MICAELLY BORGES,Positivo,Não Realizado,Não Realizado,F,Parda,027a,06.25 a 29 anos,Ensino médio completo,BOM JESUS DO ARAGUAIA,*Em Branco,Urbana,MT,MT
+2019,03,1,MARIA ANTONIA GOES DE FREITAS,Positivo,Não Realizado,Não Realizado,F,Branca,052a,11.50 a 54 anos,Ensino médio completo,BOM JESUS DO ARAGUAIA,*Em Branco,Urbana,MT,MT
+2019,03,1,MAURUZAN MONTEL REIS,Positivo,Não Realizado,Não Realizado,M,Branca,050a,11.50 a 54 anos,Ensino médio incompleto,BOM JESUS DO ARAGUAIA,*Em Branco,*Em Branco,MT,MT
+2019,03,1,AMANDA RIBEIRO DE SOUSA,Positivo,Reagente,Não Realizado,F,Parda,018a,04.15 a 19 anos,Ensino fundamental completo,BOM JESUS DO ARAGUAIA,*Em Branco,Rural,MT,MT
+2019,03,1,DENISE NUNES BARBOSA,Positivo,Reagente,Não Realizado,F,Parda,018a,04.15 a 19 anos,Ensino médio completo,PORTO ALEGRE DO NORTE,Estudante,Urbana,MT,MT
+2019,03,1,MARLY ALVES NUNES,Positivo,Reagente,Não Realizado,F,Branca,048a,10.45 a 49 anos,5ª a 8ª série incompleta do EF,PORTO ALEGRE DO NORTE,DONA DE CASA,Urbana,MT,MT
